@@ -1,7 +1,7 @@
 # Encrypted-Steganography
 
       This is simple python implementation of Steganograhpy using AES encryption.
-      Instead of writing plain text inside the image, we write the encrypted payload. Hence the data is more secure .
+      Instead of writing plain text inside the image, we write the encrypted payload. Hence the data is more secure.
       During the decryption, the user has to input the password inorder to get the decoded message.
       
 **Python commands**
