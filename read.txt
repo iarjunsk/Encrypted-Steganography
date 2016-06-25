@@ -1,0 +1,7 @@
+#Commands to Run
+
+#To encode your message inside your image using password
+python code.py -e picture.jpg
+
+#To decode the message (You have to enter the password)
+python code.py -d picture.jpg  
