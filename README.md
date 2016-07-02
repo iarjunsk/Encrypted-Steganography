@@ -17,3 +17,4 @@
   Modules used:
   1. Python Image Library
   2. Crypto.cipher
+  3. getpass
